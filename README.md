@@ -14,6 +14,7 @@ Plann.er - Sistema de gestão de viagens e atividades a se fazer.
 
 Esse projeto foi desenvolvido com as seguintes tecnologias: 
 <br/>
+<br/>
 TypeScript <br/>
 ReactJS <br/>
 Tailwindcss <br/>
