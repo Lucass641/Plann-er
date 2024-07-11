@@ -4,7 +4,7 @@
 <img src=".github\project-image.png" alt="nlw-journey-nodejs"/><br />
 </div> -->
 
-💻 ## Sobre o projeto
+ ## 💻 Sobre o projeto
 
 Projeto desenvolvido durante o Next Level Week Journey, apresentado pela Rocketseat, que ocorreu de 8 a 12 de julho de 2024.
 Plann.er - Sistema de gestão de viagens e atividades a se fazer.
