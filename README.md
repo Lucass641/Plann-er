@@ -1,4 +1,4 @@
-# nlw-journey-nodejs
+# NLW-Journey-ReactJS
 
 <!-- <div align="center">
 <img src=".github\project-image.png" alt="nlw-journey-nodejs"/><br />
@@ -10,7 +10,7 @@ Projeto desenvolvido durante o Next Level Week Journey, apresentado pela Rockets
 Plann.er - Sistema de gestão de viagens e atividades a se fazer.
 
 
-🚀 ## Tecnologias
+ ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -21,7 +21,7 @@ NodeJS
 Prisma
 
 
-🎨 ## Design:
+ ## 🎨 Design:
 Figma: https://www.figma.com/design/kgtnYGs6ofSDsQ9fn47CFR/NLW-Journey-%E2%80%A2-Planejador-de-viagem-(Community)?t=HsjtHL1rupBNiqAs-0
 
 Feito por Lucas Gabriel feat. Rocketseat
