@@ -12,13 +12,13 @@ Plann.er - Sistema de gestão de viagens e atividades a se fazer.
 
  ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
-
-TypeScript
-ReactJS
-Tailwindcss
-NodeJS
-Prisma
+Esse projeto foi desenvolvido com as seguintes tecnologias: 
+<br/>
+TypeScript <br/>
+ReactJS <br/>
+Tailwindcss <br/>
+NodeJS <br/>
+Prisma <br/>
 
 
  ## 🎨 Design:
